@@ -1,0 +1,5 @@
+Accounting System for Guatemala
+
+= IMPORTANT =
+
+The project has been moved at https://github.com/j2gl/facturas-gt
